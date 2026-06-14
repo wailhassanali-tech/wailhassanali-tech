@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Wail Hassan Ali
+#👋 Hi, I'm Wail Hassan Ali
 
-Final-year Cyber Security student with a strong interest in malware analysis, Operational Technology (OT) security, healthcare cybersecurity, and incident response.
+Final-year Cyber Security Student | Malware Analysis | OT Security | Incident Response
 
 ## 🔍 Areas of Interest
 
