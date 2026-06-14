@@ -13,10 +13,24 @@ Final-year Cyber Security student with a strong interest in malware analysis, Op
 
 ## 🚀 Featured Projects
 
-- 🦠 Malware Analysis Investigation
-- 🏥 Healthcare OT & IoMT Security Research
-- 🏭 IT–OT Convergence Security
-- 🚨 Cyber Drill – Incident Response Exercise
+## 🚀 Featured Projects
+
+### 🦠 Malware Analysis Investigation
+
+Conducted static and dynamic malware analysis using industry-standard tools to examine malicious behaviour, identify Indicators of Compromise (IOCs), and investigate host and network activity within a controlled laboratory environment.
+
+### 🏥 Healthcare OT & IoMT Security Research
+
+Bachelor research project exploring cybersecurity challenges affecting Healthcare Operational Technology (OT) and the Internet of Medical Things (IoMT), combining academic research with a practical proof-of-concept laboratory.
+
+### 🏭 IT–OT Convergence Security
+
+Research project analysing cybersecurity risks in converged Information Technology (IT) and Operational Technology (OT) environments, with a focus on Zero Trust principles, network segmentation, and critical infrastructure protection.
+
+### 🚨 Cyber Drill – Incident Response Exercise
+
+Participated in a simulated cyber incident response exercise as **Senior Decision Maker**, contributing to strategic decision-making, risk assessment, stakeholder coordination, and incident management.
+
 
 ## 🛠️ Currently Learning
 
