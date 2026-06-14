@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Wail Hassan Ali
 
-<!--
-**wailhassanali-tech/wailhassanali-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Cyber Security student with a strong interest in malware analysis, Operational Technology (OT) security, healthcare cybersecurity, and incident response.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Malware Analysis
+- Operational Technology (OT) Security
+- Healthcare Cybersecurity
+- Incident Response
+- Critical Infrastructure Protection
+- Threat Detection & Analysis
+
+## 🚀 Featured Projects
+
+- 🦠 Malware Analysis Investigation
+- 🏥 Healthcare OT & IoMT Security Research
+- 🏭 IT–OT Convergence Security
+- 🚨 Cyber Drill – Incident Response Exercise
+
+## 🛠️ Currently Learning
+
+- Detection Engineering
+- Threat Hunting
+- Security Operations (SOC)
+- Critical Infrastructure Security
+
+Thanks for visiting my GitHub profile!
