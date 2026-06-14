@@ -33,9 +33,9 @@ Participated in a simulated cyber incident response exercise as **Senior Decisio
 
 ## 🛠️ Currently Learning
 
-- Detection Engineering
-- Threat Hunting
-- Security Operations (SOC)
-- Critical Infrastructure Security
+- Detection Engineering with Sigma and YARA
+- Threat Hunting and IOC Analysis
+- Security Operations Centre (SOC) Practices
+- Critical Infrastructure & OT Security
 
 Thanks for visiting my GitHub profile!
