@@ -11,7 +11,6 @@ Final-year Cyber Security Student | Malware Analysis | OT Security | Incident Re
 - Critical Infrastructure Protection
 - Threat Detection & Analysis
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
