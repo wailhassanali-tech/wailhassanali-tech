@@ -51,11 +51,11 @@ Participated in a simulated cyber incident response exercise as **Senior Decisio
 
 ## 🎯 Career Focus
 
-Interested in opportunities within:
+Interested in graduate and junior opportunities within:
 
 - Security Operations (SOC)
-- Incident Response
-- Malware Analysis
+- Incident Response & Digital Forensics
+- Malware Analysis & Threat Investigation
 - OT & Critical Infrastructure Security
 - Cybersecurity Analysis
 
