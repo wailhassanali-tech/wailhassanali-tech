@@ -59,4 +59,9 @@ Interested in graduate and junior opportunities within:
 - OT & Critical Infrastructure Security
 - Cybersecurity Analysis
 
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/wail-hassan-ali/)
+- Email: wailhassanali@hotmail.com
+
 Thanks for visiting my GitHub profile!
