@@ -9,6 +9,8 @@ Cybersecurity graduate with a strong interest in malware analysis, Operational T
 **BSc Applied Cyber Security**  
 University of South Wales | 2025–2026
 
+**Result:** Upper Second-Class Honours (2:1)
+
 NCSC-certified degree meeting the criteria defined for undergraduate degrees in Cyber Security.
 
 ## 🔍 Areas of Interest
