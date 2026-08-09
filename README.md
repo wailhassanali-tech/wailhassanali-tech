@@ -4,6 +4,8 @@ BSc Applied Cyber Security Graduate | Malware Analysis | OT Security | Incident 
 
 Cybersecurity graduate with a strong interest in malware analysis, Operational Technology (OT) security, healthcare cybersecurity, and incident response. I enjoy combining technical analysis, security research, and practical laboratory work to understand and address real-world cybersecurity challenges.
 
+My goal is to contribute to the protection of critical systems and organisations through practical security analysis, threat investigation, and defensive cybersecurity.
+
 ## 🎓 Education
 
 **BSc Applied Cyber Security**  
