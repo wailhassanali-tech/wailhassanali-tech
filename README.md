@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Wail Hassan Ali
 
-BSc Applied Cyber Security Graduate | Malware Analysis | OT Security | Incident Response | Critical Infrastructure
+MSc Computer Science with Cyber Security | BSc Applied Cyber Security | Malware Analysis | OT Security | Incident Response
 
 Cybersecurity graduate with a strong interest in malware analysis, Operational Technology (OT) security, healthcare cybersecurity, and incident response. I enjoy combining technical analysis, security research, and practical laboratory work to understand and address real-world cybersecurity challenges.
 
 My goal is to contribute to the protection of critical systems and organisations through practical security analysis, threat investigation, and defensive cybersecurity.
 
 ## 🎓 Education
+
+**MSc Computer Science with Cyber Security**  
+Currently studying
 
 **BSc Applied Cyber Security**  
 University of South Wales | 2025–2026
