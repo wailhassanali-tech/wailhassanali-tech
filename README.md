@@ -25,6 +25,11 @@ NCSC-certified degree meeting the criteria defined for undergraduate degrees in 
 - Threat Detection & Analysis
 
 ## 🚀 Featured Projects
+### 🔐 Authorized Web Application Security Assessment
+
+Conducted an authorized security assessment of a web application, covering reconnaissance, API security, authentication, authorization, input validation, and security configuration.
+
+[View Project](https://github.com/wailhassanali-tech/kriva-authorized-security-assessment)
 
 ### 🦠 Malware Analysis Investigation
 
