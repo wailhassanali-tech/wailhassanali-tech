@@ -56,10 +56,10 @@ Participated in a simulated cyber incident response exercise as **Senior Decisio
 
 ## 🛠️ Currently Learning
 
-- Detection Engineering with Sigma and YARA
-- Threat Hunting and IOC Analysis
-- Security Operations Centre (SOC) Practices
-- Critical Infrastructure & OT Security
+- Computer Science with Cyber Security
+- Cybersecurity Analysis
+- Data Analysis & Machine Learning
+- Big Data
 
 ## 🎯 Career Focus
 
