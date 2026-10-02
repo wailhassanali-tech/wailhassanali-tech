@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wail Hassan Ali
 
-BSc Applied Cyber Security | Malware Analysis | OT Security | Incident Response | Critical Infrastructure
+BSc Applied Cyber Security | Web & API Security | Malware Analysis | OT Security | Incident Response
 
 Cybersecurity graduate with a strong interest in malware analysis, Operational Technology (OT) security, healthcare cybersecurity, and incident response. I enjoy combining technical analysis, security research, and practical laboratory work to understand and address real-world cybersecurity challenges.
 
